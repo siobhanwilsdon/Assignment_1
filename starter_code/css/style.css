@@ -1,0 +1,70 @@
+body {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  border-top: 5px solid #ffa0a0;
+  border-bottom: 5px solid #ffa0a0;
+  margin: 30px auto;
+  width: 800px;
+  padding: 50px;
+  background: #ffeed1;
+}
+
+.current-page {
+  font-style: italic;
+}
+
+nav {
+  text-align: center;
+  color: #222;
+}
+
+nav ul {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 2px;
+}
+
+nav li {
+  display: inline-block;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 0;
+  color: #e25738;
+  font-weight: bold;
+}
+
+h5 {
+  text-transform: uppercase;
+  font-weight: bolder;
+}
+
+.avatar {
+  height: 200px;
+  float: right;
+  border: 3px solid #ffa0a0;
+  padding: 5px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.portfolio-images {
+  border: 3px solid #ffa0a0;
+  padding: 5px;
+  margin: 50px auto;
+  width: 75%;
+  display: block;
+}
+
+a {
+  font-weight: bold;
+  color: #727171;
+}
+
+p {
+  font-family: 'Lora', serif;
+  font-size: 15px;
+}
